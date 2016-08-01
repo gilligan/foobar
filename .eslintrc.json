@@ -1,0 +1,7 @@
+{
+    "extends": "holidaycheck/es2015",
+    "env": {
+        "node": true,
+        "mocha": true
+    }
+}
